@@ -1,5 +1,5 @@
-# mit_pacman
-<h1>"MIT PacMan Project</h1>
+<h1>MIT PacMan Project</h1>
+<h2># mit_pacman</h2>
 
 ## About
 
